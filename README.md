@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85196642/142362989-ca1cb245-d9f1-4345-99fb-939171fb34ee.gif" width="80%" alt="Banner"><br><br>
 </p>
-<p align="center"> ⚠️ <b> This is a fork of Apple Music Electron <a target="_blank" href="https://github.com/ciderapp/Apple-Music-Electron"> </a>
+<p align="center"> ⚠️ <b> This is a fork of  <a target="_blank" href="https://github.com/ciderapp/Apple-Music-Electron"> Apple Music Electron </a>
  </p>
 
 <p align="center">
